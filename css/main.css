@@ -1607,9 +1607,9 @@ pre .javascript .function {
 }
 .posts-expand .post-eof {
   display: block;
-  margin: 80px auto 60px;
-  width: 0%;
-  height: 0px;
+  margin: 60px auto 50px;
+  width: 8%;
+  height: 1px;
   background: #ccc;
   text-align: center;
 }
@@ -1835,7 +1835,7 @@ pre {
   width: 4px;
   height: 4px;
   border-radius: 50%;
-  background: #bfff77;
+  background: #33a11f;
 }
 .links-of-blogroll {
   font-size: 13px;
@@ -2786,13 +2786,13 @@ pre {
   padding-right: 260px;
 }
 header {
-  width: 90% !important;
+  width: 1200px !important;
 }
 header.post-header {
   width: auto !important;
 }
 .container .main-inner {
-  width: 90%;
+  width: 1200px;
 }
 .content-wrap {
   width: calc(100% - 260px);
