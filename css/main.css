@@ -1835,7 +1835,7 @@ pre {
   width: 4px;
   height: 4px;
   border-radius: 50%;
-  background: #5e364e;
+  background: #c8fffb;
 }
 .links-of-blogroll {
   font-size: 13px;
@@ -2711,7 +2711,7 @@ pre {
 .content-wrap {
   float: right;
   box-sizing: border-box;
-  padding: 20px;
+  padding: 30px;
   width: 810px;
   background: #fff;
   min-height: 700px;
