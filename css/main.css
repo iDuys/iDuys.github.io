@@ -1835,7 +1835,7 @@ pre {
   width: 4px;
   height: 4px;
   border-radius: 50%;
-  background: #6be304;
+  background: #374074;
 }
 .links-of-blogroll {
   font-size: 13px;
@@ -2653,14 +2653,14 @@ pre {
   top: 0;
   overflow: hidden;
   padding: 0;
-  width: 240px;
+  width: 260px;
   background: #fff;
   box-shadow: initial;
   border-radius: initial;
 }
 @media (min-width: 1600px) {
   .container .header-inner {
-    width: 240px;
+    width: 260px;
   }
 }
 @media (min-width: 768px) and (max-width: 991px) {
