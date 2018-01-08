@@ -1835,7 +1835,7 @@ pre {
   width: 4px;
   height: 4px;
   border-radius: 50%;
-  background: #374074;
+  background: #0eff13;
 }
 .links-of-blogroll {
   font-size: 13px;
@@ -2653,14 +2653,14 @@ pre {
   top: 0;
   overflow: hidden;
   padding: 0;
-  width: 260px;
+  width: 240px;
   background: #fff;
   box-shadow: initial;
   border-radius: initial;
 }
 @media (min-width: 1600px) {
   .container .header-inner {
-    width: 260px;
+    width: 240px;
   }
 }
 @media (min-width: 768px) and (max-width: 991px) {
@@ -2786,13 +2786,13 @@ pre {
   padding-right: 260px;
 }
 header {
-  width: 90% !important;
+  width: 100% !important;
 }
 header.post-header {
   width: auto !important;
 }
 .container .main-inner {
-  width: 90%;
+  width: 100%;
 }
 .content-wrap {
   width: calc(100% - 260px);
