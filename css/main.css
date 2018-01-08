@@ -1835,7 +1835,7 @@ pre {
   width: 4px;
   height: 4px;
   border-radius: 50%;
-  background: #fe86b0;
+  background: #707d55;
 }
 .links-of-blogroll {
   font-size: 13px;
@@ -2786,13 +2786,13 @@ pre {
   padding-right: 260px;
 }
 header {
-  width: 88% !important;
+  width: 90% !important;
 }
 header.post-header {
   width: auto !important;
 }
 .container .main-inner {
-  width: 88%;
+  width: 90%;
 }
 .content-wrap {
   width: calc(100% - 260px);
