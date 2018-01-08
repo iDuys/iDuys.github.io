@@ -1616,6 +1616,22 @@ pre .javascript .function {
 .post:last-child .post-eof.post-eof.post-eof {
   display: none;
 }
+code {
+  color: #ff7600;
+  background: #fbf7f8;
+  margin: 2px;
+}
+.highlight,
+pre {
+  margin: 5px 0;
+  padding: 5px;
+  border-radius: 3px;
+}
+.highlight,
+code,
+pre {
+  border: 1px solid #d6d6d6;
+}
 .post-gallery {
   display: table;
   table-layout: fixed;
@@ -1819,7 +1835,7 @@ pre .javascript .function {
   width: 4px;
   height: 4px;
   border-radius: 50%;
-  background: #3822d0;
+  background: #f901a1;
 }
 .links-of-blogroll {
   font-size: 13px;
@@ -3070,4 +3086,49 @@ header.post-header {
 }
 .post content-wrap {
   width: calc(100% - 260px);
+}
+.site-meta {
+  background: #0684bd;
+}
+header {
+  width: 90% !important;
+}
+header.post-header {
+  width: auto !important;
+}
+.container .main-inner {
+  width: 90%;
+}
+.content-wrap {
+  width: calc(100% - 260px);
+}
+@media (min-width: 768px) and (max-width: 991px) {
+  .header {
+    width: auto !important;
+  }
+}
+@media (max-width: 767px) {
+  .header {
+    width: auto !important;
+  }
+}
+@media (min-width: 768px) and (max-width: 991px) {
+  .container .main-inner {
+    width: auto !important;
+  }
+}
+@media (max-width: 767px) {
+  .container .main-inner {
+    width: auto !important;
+  }
+}
+@media (min-width: 768px) and (max-width: 991px) {
+  .content-wrap {
+    width: 100% !important;
+  }
+}
+@media (max-width: 767px) {
+  .content-wrap {
+    width: 100% !important;
+  }
 }
