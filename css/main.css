@@ -1608,8 +1608,8 @@ pre .javascript .function {
 .posts-expand .post-eof {
   display: block;
   margin: 10px auto 2px;
-  width: 0%;
-  height: 0px;
+  width: 8%;
+  height: 1px;
   background: #ccc;
   text-align: center;
 }
@@ -1835,7 +1835,7 @@ pre {
   width: 4px;
   height: 4px;
   border-radius: 50%;
-  background: #b69901;
+  background: #5c2f75;
 }
 .links-of-blogroll {
   font-size: 13px;
@@ -2721,14 +2721,14 @@ pre {
 @media (min-width: 768px) and (max-width: 991px) {
   .content-wrap {
     width: 100%;
-    padding: 3px;
+    padding: 1px;
     border-radius: initial;
   }
 }
 @media (max-width: 767px) {
   .content-wrap {
     width: 100%;
-    padding: 3px;
+    padding: 1px;
     min-height: auto;
     border-radius: initial;
   }
