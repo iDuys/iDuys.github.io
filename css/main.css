@@ -1835,7 +1835,7 @@ pre {
   width: 4px;
   height: 4px;
   border-radius: 50%;
-  background: #21c7ff;
+  background: #37f741;
 }
 .links-of-blogroll {
   font-size: 13px;
@@ -2721,14 +2721,14 @@ pre {
 @media (min-width: 768px) and (max-width: 991px) {
   .content-wrap {
     width: 100%;
-    padding: 10px;
+    padding: 3px;
     border-radius: initial;
   }
 }
 @media (max-width: 767px) {
   .content-wrap {
     width: 100%;
-    padding: 10px;
+    padding: 3px;
     min-height: auto;
     border-radius: initial;
   }
