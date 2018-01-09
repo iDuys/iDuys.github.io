@@ -1607,9 +1607,9 @@ pre .javascript .function {
 }
 .posts-expand .post-eof {
   display: block;
-  margin: 60px auto 50px;
-  width: 8%;
-  height: 1px;
+  margin: 10px auto 2px;
+  width: 0%;
+  height: 0px;
   background: #ccc;
   text-align: center;
 }
@@ -1835,7 +1835,7 @@ pre {
   width: 4px;
   height: 4px;
   border-radius: 50%;
-  background: #bb793c;
+  background: #2eff71;
 }
 .links-of-blogroll {
   font-size: 13px;
