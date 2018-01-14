@@ -26,7 +26,16 @@
     }
 </style>
 <meta name="theme-color" content="#222">
-
+<script>
+	(function(){
+        if('123456'){
+            if (prompt('请输入文章密码') !== '123456'){
+                alert('密码错误！');
+                history.back();
+            }
+        }
+    })();
+</script>
 	
 
 
